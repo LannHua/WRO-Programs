@@ -1,0 +1,1 @@
+The higher the number on the file, the later the file was made. It is also more complete. Many of these versions are necessary in the case of any EV3 crashes, or a new method of programming is tried out.
